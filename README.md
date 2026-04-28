@@ -54,7 +54,7 @@
 ## 🚀 Featured Projects
 
 ### 🌿 Plant Disease Classification using CNN
-Deep learning model trained on PlantVillage Dataset (38 classes) to detect healthy and diseased plant leaves.  
+Deep learning model trained on PlantVillage Dataset (38 classes) to detect healthy and diseased plant leaves.
 🔗 https://github.com/KetkiGupta99/Plant-Disease-Classification
 
 ### 🚢 Titanic Dashboard
@@ -80,7 +80,7 @@ Advanced system using A2A + MCP Server architecture.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="Left">
 <img src="https://github-readme-stats.vercel.app/api?username=KetkiGupta99&show_icons=true&theme=tokyonight"/>
 </p>
 
@@ -88,7 +88,7 @@ Advanced system using A2A + MCP Server architecture.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetkiGupta99&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<p align="right">
 <img src="https://streak-stats.demolab.com/?user=KetkiGupta99&theme=tokyonight"/>
 </p>
 
