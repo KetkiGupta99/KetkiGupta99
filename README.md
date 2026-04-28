@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Ketki Gupta</h1>
-<h3 align="center">Curious mind who untangles real-world complexity — one intelligent system at a time.</h3
+<h2 align="center">Hello 👋, I'm Ketki Gupta</h2>
+<h4 align="center">Curious mind who untangles real-world complexity — one intelligent system at a time.</h4>
 ---
 
 ## 👩‍💻 About Me
@@ -113,6 +113,21 @@ A Python-based trading bot with both a CLI interface and a Streamlit Web UI for 
 </tr>
 
 </table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KetkiGupta99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetkiGupta99&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KetkiGupta99&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KetkiGupta99&theme=tokyonight" />
+</p>
 
 ---
 
