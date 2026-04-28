@@ -13,23 +13,19 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ketki-gupta-0873001b4/" target="blank">
+<a href="https://www.linkedin.com/in/ketki-gupta-0873001b4/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<a href="https://www.hackerrank.com/profile/ketkigupta7400" target="blank">
+<a href="https://www.hackerrank.com/profile/ketkigupta7400" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
 </a>
-
-<a href="https://www.kaggle.com/ketkigupta" target="blank">
+<a href="https://www.kaggle.com/ketkigupta" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
-
 <a href="mailto:ketkigupta7400@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -78,30 +74,8 @@ Advanced system using A2A + MCP Server architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="Left">
-<img src="https://github-readme-stats.vercel.app/api?username=KetkiGupta99&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetkiGupta99&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="right">
-<img src="https://streak-stats.demolab.com/?user=KetkiGupta99&theme=tokyonight"/>
-</p>
-
----
-
 ## 💡 Quote I Believe In
 
 > "Data tells stories. Intelligence turns them into decisions."
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=KetkiGupta99&color=blueviolet&style=flat-square)
 
 ---
