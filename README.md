@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ketki Gupta</h1>
-<h3 align="center">Curious mind who untangles real-world complexity — one intelligent system at a time.</h3>
-
-<p align="center">
-🎯 Aspiring Data Analyst | Data Scientist | Power BI Developer | Python Developer
-</p>
-
+<h1 align="center">Hello 👋, I'm Ketki Gupta</h1>
+<h3 align="center">Curious mind who untangles real-world complexity — one intelligent system at a time.</h3
 ---
 
 ## 👩‍💻 About Me
@@ -13,8 +8,6 @@
 - 📊 Skilled in building dashboards, analytics solutions, and ML models
 - 🧠 Currently learning **DSA, Machine Learning, Maths**
 - 🚀 Interested in intelligent systems, automation & business insights
-- 💼 Open to opportunities in Data / BI / Python roles
-
 ---
 
 ## 🌐 Connect With Me
