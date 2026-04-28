@@ -89,15 +89,6 @@ Business dashboard for product sales, KPIs, and performance tracking.
 
 🔗 <a href="https://github.com/KetkiGupta99/Product_Analysis_Power_BI_Report">View Project</a>
 
-</td>
-<td width="50%">
-
-### 🧠 Multi-Agent Data Analysis Platform
-Advanced analytics platform using A2A + MCP Server architecture.
-
-🔗 <a href="https://github.com/KetkiGupta99">View Project</a>
-
-</td>
 </tr>
 
 </table>
@@ -107,5 +98,5 @@ Advanced analytics platform using A2A + MCP Server architecture.
 ## 💡 Quote I Believe In
 
 > "Data tells stories. Intelligence turns them into decisions."
-
+> 3 A's of Life "Accept, Acknowlegment and Appreciate."
 ---
