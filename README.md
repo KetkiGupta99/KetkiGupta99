@@ -44,14 +44,6 @@
 <img src="https://skillicons.dev/icons?i=fastapi" />
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/pandas" width="48" height="48"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/numpy" width="48" height="48"/>
-</a>
-
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" />
 </a>
