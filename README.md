@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -52,7 +52,6 @@
 <img src="https://cdn.simpleicons.org/powerbi" width="48" height="48"/>
 </a>
 </p>
----
 
 ## 🚀 Featured Projects
 
