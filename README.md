@@ -30,21 +30,15 @@
 
 ## 🛠️ Skills & Tools
 
-### 💻 Languages  
-Python, MySQL, PostgreSQL  
+💻 Python • MySQL • PostgreSQL  
 
-### ⚙️ Frameworks & Libraries  
-FastAPI, Pandas, NumPy, Streamlit, LangChain, LangGraph  
+⚙️ FastAPI • Pandas • NumPy • Streamlit • LangChain • LangGraph  
 
-### 🧰 Developer Tools  
-GitHub, Docker, VS Code  
+🧰 GitHub • Docker • VS Code  
 
-### 🤖 AI / LLM Technologies  
-LLMs, OpenAI, Gemini, Groq  
+🤖 LLMs • OpenAI • Gemini • Groq  
 
-### 📊 Data Visualization & Analytics  
-Power BI, Matplotlib, Excel
-
+📊 Power BI • Matplotlib • Excel
 ---
 
 ## 🚀 Featured Projects
