@@ -30,15 +30,81 @@
 
 ## 🛠️ Skills & Tools
 
-💻 Python • MySQL • PostgreSQL  
+<p align="left">
 
-⚙️ FastAPI • Pandas • NumPy • Streamlit • LangChain • LangGraph  
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
 
-🧰 GitHub • Docker • VS Code  
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 
-🤖 LLMs • OpenAI • Gemini • Groq  
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" />
+</a>
 
-📊 Power BI • Matplotlib • Excel
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/pandas" width="48" height="48"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/numpy" width="48" height="48"/>
+</a>
+
+<a href="https://streamlit.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/streamlit" width="48" height="48"/>
+</a>
+
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/langchain" width="48" height="48"/>
+</a>
+
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+<img src="https://cdn.simpleicons.org/graphql" width="48" height="48"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://openai.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/openai" width="48" height="48"/>
+</a>
+
+<a href="https://ai.google.dev/" target="_blank">
+<img src="https://cdn.simpleicons.org/google" width="48" height="48"/>
+</a>
+
+<a href="https://groq.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/groq" width="48" height="48"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/powerbi" width="48" height="48"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/matplotlib" width="48" height="48"/>
+</a>
+
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+<img src="https://cdn.simpleicons.org/microsoftexcel" width="48" height="48"/>
+</a>
+
+</p>
 ---
 
 ## 🚀 Featured Projects
