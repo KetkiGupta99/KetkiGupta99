@@ -4,10 +4,10 @@
 
 ## 👩‍💻 About Me
 
-- 🔍 Passionate about solving real-world problems using **Data + AI**
-- 📊 Skilled in building dashboards, analytics solutions, and ML models
-- 🧠 Currently learning **DSA, Machine Learning, Maths**
-- 🚀 Interested in intelligent systems, automation & business insights
+- Passionate about solving real-world problems using **Data + AI**
+- Skilled in building dashboards, analytics solutions, and ML models
+- Currently learning **DSA, Machine Learning, Maths**
+- Interested in intelligent systems, automation & business insights
 ---
 
 ## 🌐 Connect With Me
@@ -88,7 +88,15 @@ AI-powered CRM solution designed for healthcare professionals.
 Business dashboard for product sales, KPIs, and performance tracking.
 
 🔗 <a href="https://github.com/KetkiGupta99/Product_Analysis_Power_BI_Report">View Project</a>
+</td>
+<td width="50%">
 
+### 📈 Trading Bot
+A Python-based trading bot with both a CLI interface and a Streamlit Web UI for placing orders on the Binance Spot Testnet (USDT pairs). This project allows users to safely test trading strategies without using real money.
+
+🔗 <a href="https://github.com/KetkiGupta99/Trading-Bot">View Project</a>
+
+</td>
 </tr>
 
 </table>
@@ -97,6 +105,6 @@ Business dashboard for product sales, KPIs, and performance tracking.
 
 ## 💡 Quote I Believe In
 
-> "Data tells stories. Intelligence turns them into decisions."
-> 3 A's of Life "Accept, Acknowlegment and Appreciate."
+> "Data tells stories. Intelligence turns them into decisions."  
+> "3 A's of Life — Accept, Acknowledgment and Appreciate."
 ---
