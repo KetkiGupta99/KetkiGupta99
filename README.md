@@ -118,15 +118,6 @@ A Python-based trading bot with both a CLI interface and a Streamlit Web UI for 
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KetkiGupta99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetkiGupta99&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KetkiGupta99&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KetkiGupta99&theme=tokyonight" />
 </p>
 
 ---
