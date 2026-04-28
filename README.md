@@ -31,18 +31,11 @@
 ## 🛠️ Skills & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy"/>
-
-</p>
-
-<p align="left">
-
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-darkblue?style=for-the-badge"/>
-
 </p>
 
 ---
