@@ -42,28 +42,65 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌿 Plant Disease Classification using CNN
-Deep learning model trained on PlantVillage Dataset (38 classes) to detect healthy and diseased plant leaves.
-🔗 https://github.com/KetkiGupta99/Plant-Disease-Classification
+Deep learning model trained on PlantVillage Dataset to classify 38 classes of healthy and diseased leaves.
+
+🔗 <a href="https://github.com/KetkiGupta99/Plant-Disease-Classification">View Project</a>
+
+</td>
+<td width="50%">
 
 ### 🚢 Titanic Dashboard
-Interactive dashboard analyzing Titanic passenger survival insights.  
-🔗 https://github.com/KetkiGupta99/Titanic-Dashboard
+Interactive dashboard analyzing passenger survival trends and key insights.
+
+🔗 <a href="https://github.com/KetkiGupta99/Titanic-Dashboard">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🫁 Lung Cancer Dashboard
-Power BI dashboard for lung cancer trends and analysis.  
-🔗 https://github.com/KetkiGupta99/Lung_Cancer_Dashboard
+Power BI dashboard for lung cancer trends, risk factors, and insights.
+
+🔗 <a href="https://github.com/KetkiGupta99/Lung_Cancer_Dashboard">View Project</a>
+
+</td>
+<td width="50%">
 
 ### 🤖 AI First CRM HCP
-AI-powered CRM solution for healthcare professionals.  
-🔗 https://github.com/KetkiGupta99/AI-First-CRM-HCP
+AI-powered CRM solution designed for healthcare professionals.
+
+🔗 <a href="https://github.com/KetkiGupta99/AI-First-CRM-HCP">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📈 Product Analysis Power BI Report
-Business intelligence dashboard for product performance insights.  
-🔗 https://github.com/KetkiGupta99/Product_Analysis_Power_BI_Report
+Business dashboard for product sales, KPIs, and performance tracking.
+
+🔗 <a href="https://github.com/KetkiGupta99/Product_Analysis_Power_BI_Report">View Project</a>
+
+</td>
+<td width="50%">
 
 ### 🧠 Multi-Agent Data Analysis Platform
-Advanced system using A2A + MCP Server architecture.  
+Advanced analytics platform using A2A + MCP Server architecture.
+
+🔗 <a href="https://github.com/KetkiGupta99">View Project</a>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
