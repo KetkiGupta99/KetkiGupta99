@@ -125,5 +125,5 @@ A Python-based trading bot with both a CLI interface and a Streamlit Web UI for 
 ## 💡 Quote I Believe In
 
 > "Data tells stories. Intelligence turns them into decisions."  
-> "3 A's of Life — Accept, Acknowledgment and Appreciate."
+> "3 A's of Life — Accept, Acknowledge and Appreciate."
 ---
