@@ -67,10 +67,10 @@ Deep learning model trained on PlantVillage Dataset to classify 38 classes of he
 </td>
 <td width="50%">
 
-### 🚢 Titanic Dashboard
-Interactive dashboard analyzing passenger survival trends and key insights.
+### 🚢 Data Professional Survey Breakdown Dashboard
+Interactive Data Professional Survey Analysis Dashboard using Power BI.
 
-🔗 <a href="https://github.com/KetkiGupta99/Titanic-Dashboard">View Project</a>
+🔗 <a href="https://github.com/KetkiGupta99/Data-Professional-Survey-Breakdown">View Project</a>
 
 </td>
 </tr>
