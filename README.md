@@ -86,8 +86,6 @@ An end-to-end machine learning pipeline built to predict credit default risk usi
 </td>
 <td width="50%">
 
-<td width="50%">
-
 ### Data Professional Survey Breakdown Dashboard
 Interactive Data Professional Survey Analysis Dashboard using Power BI.
 
