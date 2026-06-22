@@ -86,10 +86,10 @@ Power BI dashboard for lung cancer trends, risk factors, and insights.
 </td>
 <td width="50%">
 
-### 🤖 AI First CRM HCP
-AI-powered CRM solution designed for healthcare professionals.
+### 🤖 Customer CHurn Prediction
+Using the Telco Customer Churn Dataset, this project demonstrates how raw customer data can be transformed into actionable retention strategies through data science.
 
-🔗 <a href="https://github.com/KetkiGupta99/AI-First-CRM-HCP">View Project</a>
+🔗 <a href="https://github.com/KetkiGupta99/customer_churn_prediction/tree/main">View Project</a>
 
 </td>
 </tr>
