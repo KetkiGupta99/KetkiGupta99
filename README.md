@@ -65,9 +65,30 @@ Deep learning model trained on PlantVillage Dataset to classify 38 classes of he
 🔗 <a href="https://github.com/KetkiGupta99/Plant-Disease-Classification">View Project</a>
 
 </td>
+
 <td width="50%">
 
-### 🚢 Data Professional Survey Breakdown Dashboard
+### Customer CHurn Prediction
+Using the Telco Customer Churn Dataset, this project demonstrates how raw customer data can be transformed into actionable retention strategies through data science.
+
+🔗 <a href="https://github.com/KetkiGupta99/customer_churn_prediction/tree/main">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### End-to-End Credit Risk Prediction Pipeline
+An end-to-end machine learning pipeline built to predict credit default risk using a Decision Tree Classifier.
+
+🔗 <a href="https://github.com/KetkiGupta99/End-to-End-Credit-Risk-Prediction-Pipeline">View Project</a>
+</td>
+<td width="50%">
+
+<td width="50%">
+
+### Data Professional Survey Breakdown Dashboard
 Interactive Data Professional Survey Analysis Dashboard using Power BI.
 
 🔗 <a href="https://github.com/KetkiGupta99/Data-Professional-Survey-Breakdown">View Project</a>
@@ -84,33 +105,6 @@ Power BI dashboard for lung cancer trends, risk factors, and insights.
 🔗 <a href="https://github.com/KetkiGupta99/Lung_Cancer_Dashboard">View Project</a>
 
 </td>
-<td width="50%">
-
-### 🤖 Customer CHurn Prediction
-Using the Telco Customer Churn Dataset, this project demonstrates how raw customer data can be transformed into actionable retention strategies through data science.
-
-🔗 <a href="https://github.com/KetkiGupta99/customer_churn_prediction/tree/main">View Project</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📈 Product Analysis Power BI Report
-Business dashboard for product sales, KPIs, and performance tracking.
-
-🔗 <a href="https://github.com/KetkiGupta99/Product_Analysis_Power_BI_Report">View Project</a>
-</td>
-<td width="50%">
-
-### 📈 Trading Bot
-A Python-based trading bot with both a CLI interface and a Streamlit Web UI for placing orders on the Binance Spot Testnet (USDT pairs). This project allows users to safely test trading strategies without using real money.
-
-🔗 <a href="https://github.com/KetkiGupta99/Trading-Bot">View Project</a>
-
-</td>
-</tr>
 
 </table>
 
