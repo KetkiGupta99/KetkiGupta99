@@ -68,7 +68,7 @@ Deep learning model trained on PlantVillage Dataset to classify 38 classes of he
 
 <td width="50%">
 
-### Customer CHurn Prediction
+### Customer Churn Prediction
 Using the Telco Customer Churn Dataset, this project demonstrates how raw customer data can be transformed into actionable retention strategies through data science.
 
 🔗 <a href="https://github.com/KetkiGupta99/customer_churn_prediction/tree/main">View Project</a>
@@ -86,8 +86,8 @@ An end-to-end machine learning pipeline built to predict credit default risk usi
 </td>
 <td width="50%">
 
-### Data Professional Survey Breakdown Dashboard
-Interactive Data Professional Survey Analysis Dashboard using Power BI.
+### Professional Survey Data Breakdown Dashboard
+Interactive Professional Survey Data Analysis Dashboard using Power BI.
 
 🔗 <a href="https://github.com/KetkiGupta99/Data-Professional-Survey-Breakdown">View Project</a>
 
